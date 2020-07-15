@@ -1,4 +1,4 @@
-# RN-onboarding-sample
+# RN-samples
 React native onboarding sample - Learning purposes
 
 ## Install dependencies
